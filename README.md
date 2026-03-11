@@ -55,3 +55,27 @@ O objetivo é explorar o dataset e extrair insights de negócio como:
 10. Produtos mais vendidos?
 
 ---
+
+## 📊 Data Visualization
+
+### Revenue by City
+
+![Revenue by City](images/revenue_by_city.png)
+
+**Português:** Receita total por cidade.
+
+---
+
+### Revenue by Product Line
+
+![Revenue by Product Line](images/revenue_by_product.png)
+
+**Português:** Receita total por linha de produto.
+
+---
+
+### Payment Methods
+
+![Payment Methods](images/payment_methods.png)
+
+**Português:** Distribuição das formas de pagamento utilizadas pelos clientes.
