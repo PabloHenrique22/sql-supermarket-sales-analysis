@@ -80,13 +80,14 @@ O objetivo é explorar o dataset e extrair insights de negócio como:
 
 **Português:** Distribuição das transações registradas no dataset.
 
+### Customer ratings 
 ---
 
 ## 📌 Key Insights
 
 ### Business Insights
 
-- Yangon generated the highest total revenue among the three cities.
+- Naypyitaw generated the highest total revenue among the three cities.
 - Food and Beverages was the product line with the highest sales volume.
 - E-wallet was the most frequently used payment method.
 - Customer ratings are generally high, indicating good customer satisfaction.
@@ -95,7 +96,7 @@ O objetivo é explorar o dataset e extrair insights de negócio como:
 
 ### 🇧🇷 Insights em Português
 
-- A cidade de **Yangon** gerou a maior receita total entre as três cidades.
+- A cidade de **Naypyitaw** gerou a maior receita total entre as três cidades.
 - A linha de produto **Food and Beverages** apresentou o maior volume de vendas.
 - **E-wallet** foi o método de pagamento mais utilizado pelos clientes.
 - As avaliações dos clientes são majoritariamente altas, indicando **boa satisfação do consumidor**.
