@@ -11,12 +11,19 @@ The objective is to explore the dataset and extract business insights such as
 
 ## ❓ Business Questions
 
-1. Which city generates the most revenue?
-2. Which product line sells the most items?
-3. What is the most used payment method?
-4. What is the average transaction value?
-
+1. Total revenue?
+2. Revenue by city?
+3. Revenue by product line?
+4. Quantity of products sold?
+5. Most used payment method?
+6. Average order value?
+7. Average order value by city?
+8. Revenue by gender?
+9. City ranking? (Window Function)
+10. Bestselling products?
+    
 # 🛒 Supermarket Sales Analysis (SQL Project)
+
 
 🇺🇸 English below | 🇧🇷 Português abaixo
 
@@ -36,9 +43,15 @@ O objetivo é explorar o dataset e extrair insights de negócio como:
 
 ## ❓ Perguntas de Negócio
 
-1. Qual cidade gera mais receita?
-2. Qual linha de produto vende mais?
-3. Qual forma de pagamento é mais utilizada?
-4. Qual é o ticket médio das vendas?
+1. Receita total?
+2. Receita por cidade?
+3. Receita por linha de produto?
+4. Quantidade de produtos vendidos?
+5. Mêtodo de pagamento mais utilizado?
+6. Ticket médio?
+7. Ticket médio por cidade?
+8. Receita por gênero?
+9. Ranking de cidades? (Window Function)
+10. Produtos mais vendidos?
 
 ---
