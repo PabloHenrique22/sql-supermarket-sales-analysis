@@ -58,24 +58,24 @@ O objetivo é explorar o dataset e extrair insights de negócio como:
 
 ## 📊 Data Visualization
 
-### Revenue by City
+### Revenue vs City
 
-![Revenue by City](images/revenue_by_city.png)
+![Revenue vs City](images/revenue_vs_city.png)
 
 **Português:** Receita total por cidade.
 
 ---
 
-### Revenue by Product Line
+### Revenue vs Product Line
 
-![Revenue by Product Line](images/revenue_by_product.png)
+![Revenue vs Product Line](images/revenue_vs_product_line.png)
 
-**Português:** Receita total por linha de produto.
+**Português:** Receita por linha de produto.
 
 ---
 
-### Payment Methods
+### Transactions Distribution
 
-![Payment Methods](images/payment_methods.png)
+![Transactions](images/transactions.png)
 
-**Português:** Distribuição das formas de pagamento utilizadas pelos clientes.
+**Português:** Distribuição das transações registradas no dataset.
