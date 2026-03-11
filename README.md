@@ -68,7 +68,7 @@ O objetivo é explorar o dataset e extrair insights de negócio como:
 
 ### Revenue vs Product Line
 
-![Revenue vs Product Line](images/revenue_vs_product_line.png)
+![Revenue vs Product Line](images/revenue_vs_Product_line.png)
 
 **Português:** Receita por linha de produto.
 
